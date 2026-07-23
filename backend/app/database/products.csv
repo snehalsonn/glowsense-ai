@@ -1,0 +1,501 @@
+id,brand,name,category,image,price,rating,skin_type,acne,pigmentation,oiliness,dryness,dark_circles,ingredients,description
+1,The Ordinary,Vitamin C,Cleanser,vitamin_c.jpg,1955,4.2,Oily,1,0,0,0,1,Hyaluronic Acid,Recommended by GlowSense AI
+2,CeraVe,Foaming Cleanser,Serum,foaming_cleanser.jpg,2461,4.5,Sensitive,1,0,1,0,1,Snail Mucin,Recommended by GlowSense AI
+3,La Roche-Posay,Toleriane Cleanser,Serum,toleriane_cleanser.jpg,982,4.1,Oily,0,0,1,0,0,Hyaluronic Acid,Recommended by GlowSense AI
+4,Dot & Key,Watermelon Sunscreen,Treatment,watermelon_sunscreen.jpg,953,4.8,Dry,1,1,0,0,0,Vitamin C,Recommended by GlowSense AI
+5,CeraVe,PM Moisturizer,Cream,pm_moisturizer.jpg,1601,4.6,Dry,0,1,0,0,0,Ceramides,Recommended by GlowSense AI
+6,The Ordinary,Buffet Serum,Cleanser,buffet_serum.jpg,2426,4.2,Sensitive,1,1,0,0,0,Salicylic Acid,Recommended by GlowSense AI
+7,The Ordinary,Vitamin C,Treatment,vitamin_c.jpg,2230,4.3,Dry,1,0,1,1,0,Vitamin C,Recommended by GlowSense AI
+8,CeraVe,AM Moisturizer,Sunscreen,am_moisturizer.jpg,707,4.5,Combination,1,0,1,1,1,Ceramides,Recommended by GlowSense AI
+9,The Ordinary,Niacinamide 10%,Treatment,niacinamide_10.jpg,1426,4.7,Sensitive,0,1,1,0,1,Ceramides,Recommended by GlowSense AI
+10,La Roche-Posay,Effaclar Duo,Cleanser,effaclar_duo.jpg,2047,4.1,Oily,0,1,1,0,0,Hyaluronic Acid,Recommended by GlowSense AI
+11,COSRX,AHA Whitehead Power,Serum,aha_whitehead_power.jpg,561,4.3,Sensitive,0,1,1,1,1,Retinol,Recommended by GlowSense AI
+12,La Roche-Posay,Effaclar Duo,Sunscreen,effaclar_duo.jpg,776,4.0,Sensitive,1,1,1,0,1,Vitamin C,Recommended by GlowSense AI
+13,CeraVe,PM Moisturizer,Sunscreen,pm_moisturizer.jpg,2065,4.1,Dry,0,0,1,1,0,Vitamin C,Recommended by GlowSense AI
+14,The Ordinary,Azelaic Acid,Treatment,azelaic_acid.jpg,732,4.3,Dry,1,1,1,1,0,Retinol,Recommended by GlowSense AI
+15,Dot & Key,Watermelon Sunscreen,Sunscreen,watermelon_sunscreen.jpg,1175,4.1,Combination,1,0,0,1,1,Ceramides,Recommended by GlowSense AI
+16,The Ordinary,Vitamin C,Cream,vitamin_c.jpg,1685,4.8,Sensitive,0,0,0,0,1,Ceramides,Recommended by GlowSense AI
+17,The Ordinary,Retinol,Treatment,retinol.jpg,2270,4.1,All,0,0,0,0,0,Niacinamide,Recommended by GlowSense AI
+18,CeraVe,PM Moisturizer,Serum,pm_moisturizer.jpg,1557,4.9,Sensitive,0,0,0,0,0,Vitamin C,Recommended by GlowSense AI
+19,La Roche-Posay,Effaclar Cleanser,Cream,effaclar_cleanser.jpg,2959,4.2,Combination,1,1,1,1,0,Vitamin C,Recommended by GlowSense AI
+20,COSRX,AHA Whitehead Power,Moisturizer,aha_whitehead_power.jpg,2875,4.7,Sensitive,1,0,1,1,0,Salicylic Acid,Recommended by GlowSense AI
+21,Neutrogena,Oil Free Acne Wash,Sunscreen,oil_free_acne_wash.jpg,313,4.2,Oily,1,1,0,1,0,Hyaluronic Acid,Recommended by GlowSense AI
+22,Minimalist,Salicylic Acid,Cleanser,salicylic_acid.jpg,537,4.1,Dry,1,1,0,1,0,Centella,Recommended by GlowSense AI
+23,Neutrogena,Oil Free Acne Wash,Treatment,oil_free_acne_wash.jpg,2919,4.7,Dry,1,0,0,0,1,Centella,Recommended by GlowSense AI
+24,CeraVe,Moisturizing Cream,Cream,moisturizing_cream.jpg,1731,4.5,Sensitive,1,0,0,1,0,Retinol,Recommended by GlowSense AI
+25,Cetaphil,Moisturizing Lotion,Moisturizer,moisturizing_lotion.jpg,2409,4.7,Oily,1,0,1,0,0,Vitamin C,Recommended by GlowSense AI
+26,COSRX,AHA Whitehead Power,Serum,aha_whitehead_power.jpg,465,4.9,Combination,1,1,0,1,1,Vitamin C,Recommended by GlowSense AI
+27,La Roche-Posay,Anthelios SPF50,Cream,anthelios_spf50.jpg,1351,4.6,Sensitive,1,0,0,1,0,Ceramides,Recommended by GlowSense AI
+28,Cetaphil,Bright Healthy Radiance,Treatment,bright_healthy_radiance.jpg,1225,4.7,Oily,1,1,1,0,0,Hyaluronic Acid,Recommended by GlowSense AI
+29,COSRX,Snail Mucin,Cleanser,snail_mucin.jpg,1521,4.1,Dry,0,0,0,1,1,Vitamin C,Recommended by GlowSense AI
+30,Minimalist,Salicylic Acid,Moisturizer,salicylic_acid.jpg,494,5.0,Sensitive,1,0,0,1,1,Vitamin C,Recommended by GlowSense AI
+31,Cetaphil,Bright Healthy Radiance,Cleanser,bright_healthy_radiance.jpg,2333,4.5,All,0,0,1,0,0,Ceramides,Recommended by GlowSense AI
+32,The Ordinary,Buffet Serum,Cleanser,buffet_serum.jpg,2618,4.5,Oily,0,0,1,1,0,Hyaluronic Acid,Recommended by GlowSense AI
+33,Neutrogena,Hydro Boost,Moisturizer,hydro_boost.jpg,356,4.6,Combination,1,1,0,1,1,Ceramides,Recommended by GlowSense AI
+34,CeraVe,AM Moisturizer,Serum,am_moisturizer.jpg,1756,4.8,Sensitive,0,0,0,1,1,Centella,Recommended by GlowSense AI
+35,CeraVe,Foaming Cleanser,Treatment,foaming_cleanser.jpg,1745,4.1,Dry,0,1,1,0,0,Ceramides,Recommended by GlowSense AI
+36,The Ordinary,Vitamin C,Moisturizer,vitamin_c.jpg,1358,4.5,Oily,0,1,1,0,1,Niacinamide,Recommended by GlowSense AI
+37,Minimalist,Alpha Arbutin,Cleanser,alpha_arbutin.jpg,2702,4.7,All,1,1,0,1,1,Snail Mucin,Recommended by GlowSense AI
+38,The Ordinary,Retinol,Moisturizer,retinol.jpg,2829,4.5,Oily,1,0,0,1,0,Retinol,Recommended by GlowSense AI
+39,Neutrogena,Ultra Sheer SPF50,Moisturizer,ultra_sheer_spf50.jpg,1585,4.1,Combination,0,0,0,0,0,Salicylic Acid,Recommended by GlowSense AI
+40,COSRX,Snail Mucin,Moisturizer,snail_mucin.jpg,1888,4.2,Combination,1,0,0,1,1,Centella,Recommended by GlowSense AI
+41,Dot & Key,Barrier Repair Cream,Cleanser,barrier_repair_cream.jpg,1944,4.4,Sensitive,1,1,1,0,1,Vitamin C,Recommended by GlowSense AI
+42,Dot & Key,Cica Gel,Serum,cica_gel.jpg,684,4.6,All,1,1,1,0,0,Centella,Recommended by GlowSense AI
+43,Cetaphil,Daily Facial Cleanser,Sunscreen,daily_facial_cleanser.jpg,1438,4.0,Sensitive,1,1,0,1,1,Hyaluronic Acid,Recommended by GlowSense AI
+44,COSRX,AHA Whitehead Power,Treatment,aha_whitehead_power.jpg,2088,4.0,All,0,1,0,0,1,Ceramides,Recommended by GlowSense AI
+45,COSRX,AHA Whitehead Power,Moisturizer,aha_whitehead_power.jpg,347,4.5,All,0,1,1,1,0,Retinol,Recommended by GlowSense AI
+46,La Roche-Posay,Anthelios SPF50,Moisturizer,anthelios_spf50.jpg,1993,4.6,Oily,0,0,0,1,1,Ceramides,Recommended by GlowSense AI
+47,Dot & Key,Cica Gel,Serum,cica_gel.jpg,839,4.6,All,1,1,0,0,1,Salicylic Acid,Recommended by GlowSense AI
+48,Cetaphil,Gentle Skin Cleanser,Sunscreen,gentle_skin_cleanser.jpg,1591,4.3,Dry,0,1,1,0,1,Centella,Recommended by GlowSense AI
+49,Dot & Key,Watermelon Sunscreen,Moisturizer,watermelon_sunscreen.jpg,1607,4.1,Combination,1,1,1,0,0,Retinol,Recommended by GlowSense AI
+50,Neutrogena,Oil Free Acne Wash,Cleanser,oil_free_acne_wash.jpg,2544,4.9,Combination,1,1,1,0,0,Hyaluronic Acid,Recommended by GlowSense AI
+51,CeraVe,Foaming Cleanser,Cleanser,foaming_cleanser.jpg,2961,4.9,Combination,1,1,1,0,0,Retinol,Recommended by GlowSense AI
+52,CeraVe,PM Moisturizer,Moisturizer,pm_moisturizer.jpg,2091,4.8,Dry,1,1,0,0,1,Ceramides,Recommended by GlowSense AI
+53,Cetaphil,Bright Healthy Radiance,Treatment,bright_healthy_radiance.jpg,2587,4.6,Sensitive,1,1,0,0,0,Ceramides,Recommended by GlowSense AI
+54,Neutrogena,Oil Free Acne Wash,Sunscreen,oil_free_acne_wash.jpg,345,4.1,Combination,1,1,1,0,1,Centella,Recommended by GlowSense AI
+55,Dot & Key,Vitamin C Serum,Sunscreen,vitamin_c_serum.jpg,2251,4.7,Dry,0,1,0,0,0,Hyaluronic Acid,Recommended by GlowSense AI
+56,COSRX,AHA Whitehead Power,Treatment,aha_whitehead_power.jpg,1622,5.0,Dry,1,1,1,1,1,Niacinamide,Recommended by GlowSense AI
+57,Dot & Key,Barrier Repair Cream,Cleanser,barrier_repair_cream.jpg,877,4.5,All,1,0,0,1,1,Niacinamide,Recommended by GlowSense AI
+58,CeraVe,Foaming Cleanser,Serum,foaming_cleanser.jpg,1752,5.0,All,1,1,0,0,1,Salicylic Acid,Recommended by GlowSense AI
+59,Cetaphil,Moisturizing Lotion,Cream,moisturizing_lotion.jpg,1210,4.6,Dry,0,0,1,1,1,Vitamin C,Recommended by GlowSense AI
+60,The Ordinary,Vitamin C,Cleanser,vitamin_c.jpg,1180,4.3,All,1,0,0,0,1,Centella,Recommended by GlowSense AI
+61,Cetaphil,Gentle Skin Cleanser,Treatment,gentle_skin_cleanser.jpg,2697,4.7,Sensitive,1,0,1,0,0,Salicylic Acid,Recommended by GlowSense AI
+62,The Ordinary,Vitamin C,Sunscreen,vitamin_c.jpg,1132,4.7,All,1,1,1,0,0,Hyaluronic Acid,Recommended by GlowSense AI
+63,Dot & Key,Watermelon Sunscreen,Cleanser,watermelon_sunscreen.jpg,1147,4.1,Sensitive,0,1,0,1,1,Niacinamide,Recommended by GlowSense AI
+64,The Ordinary,Niacinamide 10%,Moisturizer,niacinamide_10.jpg,1969,4.7,Sensitive,1,1,0,0,0,Salicylic Acid,Recommended by GlowSense AI
+65,Minimalist,Niacinamide 10%,Serum,niacinamide_10.jpg,1341,4.7,Sensitive,1,0,0,0,1,Vitamin C,Recommended by GlowSense AI
+66,Dot & Key,Vitamin C Serum,Serum,vitamin_c_serum.jpg,1206,4.8,Dry,0,1,0,1,1,Vitamin C,Recommended by GlowSense AI
+67,Minimalist,Alpha Arbutin,Serum,alpha_arbutin.jpg,576,4.7,Dry,1,1,1,1,1,Ceramides,Recommended by GlowSense AI
+68,Cetaphil,Moisturizing Lotion,Sunscreen,moisturizing_lotion.jpg,1233,4.1,All,1,1,0,1,0,Snail Mucin,Recommended by GlowSense AI
+69,CeraVe,SA Cleanser,Cream,sa_cleanser.jpg,2637,4.2,Dry,0,1,0,0,0,Snail Mucin,Recommended by GlowSense AI
+70,Dot & Key,Vitamin C Serum,Sunscreen,vitamin_c_serum.jpg,970,4.9,Oily,0,0,0,1,1,Ceramides,Recommended by GlowSense AI
+71,CeraVe,Foaming Cleanser,Moisturizer,foaming_cleanser.jpg,2699,4.8,Sensitive,1,1,0,1,1,Ceramides,Recommended by GlowSense AI
+72,The Ordinary,Niacinamide 10%,Treatment,niacinamide_10.jpg,1299,4.9,Sensitive,1,1,1,0,1,Hyaluronic Acid,Recommended by GlowSense AI
+73,Cetaphil,Daily Facial Cleanser,Treatment,daily_facial_cleanser.jpg,1965,4.5,All,0,1,0,1,0,Snail Mucin,Recommended by GlowSense AI
+74,Neutrogena,Ultra Sheer SPF50,Sunscreen,ultra_sheer_spf50.jpg,1036,4.8,Sensitive,0,1,1,1,0,Retinol,Recommended by GlowSense AI
+75,COSRX,AHA Whitehead Power,Treatment,aha_whitehead_power.jpg,328,5.0,Dry,1,1,1,1,0,Niacinamide,Recommended by GlowSense AI
+76,Neutrogena,Hydro Boost,Serum,hydro_boost.jpg,916,4.0,Sensitive,1,1,0,0,1,Retinol,Recommended by GlowSense AI
+77,Dot & Key,Barrier Repair Cream,Cream,barrier_repair_cream.jpg,1524,4.5,Oily,1,1,1,1,1,Vitamin C,Recommended by GlowSense AI
+78,Cetaphil,Gentle Skin Cleanser,Serum,gentle_skin_cleanser.jpg,484,4.6,Sensitive,1,1,1,1,0,Niacinamide,Recommended by GlowSense AI
+79,CeraVe,PM Moisturizer,Treatment,pm_moisturizer.jpg,1763,4.4,Oily,0,0,1,1,0,Salicylic Acid,Recommended by GlowSense AI
+80,Dot & Key,Barrier Repair Cream,Treatment,barrier_repair_cream.jpg,1582,4.6,Sensitive,0,0,0,0,1,Retinol,Recommended by GlowSense AI
+81,Dot & Key,Watermelon Sunscreen,Treatment,watermelon_sunscreen.jpg,2254,4.1,Sensitive,0,1,1,0,0,Snail Mucin,Recommended by GlowSense AI
+82,COSRX,AHA Whitehead Power,Moisturizer,aha_whitehead_power.jpg,1157,4.7,Dry,1,0,1,0,0,Retinol,Recommended by GlowSense AI
+83,La Roche-Posay,Toleriane Cleanser,Treatment,toleriane_cleanser.jpg,682,4.8,Dry,0,0,0,1,1,Ceramides,Recommended by GlowSense AI
+84,COSRX,BHA Blackhead Power,Moisturizer,bha_blackhead_power.jpg,2484,4.5,Sensitive,0,0,0,1,1,Vitamin C,Recommended by GlowSense AI
+85,COSRX,BHA Blackhead Power,Cream,bha_blackhead_power.jpg,647,4.7,Dry,1,0,1,0,0,Snail Mucin,Recommended by GlowSense AI
+86,CeraVe,Hydrating Cleanser,Cream,hydrating_cleanser.jpg,897,4.9,Sensitive,0,1,1,0,1,Hyaluronic Acid,Recommended by GlowSense AI
+87,The Ordinary,Vitamin C,Serum,vitamin_c.jpg,1143,4.7,Sensitive,0,0,0,0,0,Centella,Recommended by GlowSense AI
+88,Cetaphil,Gentle Skin Cleanser,Treatment,gentle_skin_cleanser.jpg,710,4.0,Combination,0,1,0,0,0,Ceramides,Recommended by GlowSense AI
+89,Neutrogena,Hydro Boost,Sunscreen,hydro_boost.jpg,494,4.0,Dry,0,0,1,0,1,Hyaluronic Acid,Recommended by GlowSense AI
+90,Minimalist,Vitamin C Serum,Treatment,vitamin_c_serum.jpg,2699,4.3,All,0,0,0,1,0,Snail Mucin,Recommended by GlowSense AI
+91,COSRX,BHA Blackhead Power,Treatment,bha_blackhead_power.jpg,1510,4.2,All,0,1,1,1,1,Vitamin C,Recommended by GlowSense AI
+92,La Roche-Posay,Toleriane Cleanser,Cleanser,toleriane_cleanser.jpg,2325,4.4,All,0,1,0,0,1,Centella,Recommended by GlowSense AI
+93,The Ordinary,Niacinamide 10%,Serum,niacinamide_10.jpg,2799,4.9,Combination,1,0,0,1,1,Ceramides,Recommended by GlowSense AI
+94,La Roche-Posay,Anthelios SPF50,Serum,anthelios_spf50.jpg,1999,4.5,Dry,0,0,0,1,1,Vitamin C,Recommended by GlowSense AI
+95,CeraVe,AM Moisturizer,Serum,am_moisturizer.jpg,343,4.3,Oily,1,0,1,1,1,Vitamin C,Recommended by GlowSense AI
+96,La Roche-Posay,Toleriane Cleanser,Moisturizer,toleriane_cleanser.jpg,309,4.6,All,1,1,0,1,1,Vitamin C,Recommended by GlowSense AI
+97,The Ordinary,Retinol,Moisturizer,retinol.jpg,457,4.4,Combination,0,0,1,1,1,Niacinamide,Recommended by GlowSense AI
+98,Neutrogena,Hydro Boost,Cleanser,hydro_boost.jpg,568,4.9,Sensitive,0,1,0,0,1,Vitamin C,Recommended by GlowSense AI
+99,Dot & Key,Vitamin C Serum,Treatment,vitamin_c_serum.jpg,2229,4.2,Dry,0,0,0,1,1,Niacinamide,Recommended by GlowSense AI
+100,COSRX,AHA Whitehead Power,Sunscreen,aha_whitehead_power.jpg,2691,4.9,Sensitive,1,1,1,0,1,Retinol,Recommended by GlowSense AI
+101,The Ordinary,Retinol,Serum,retinol.jpg,1698,4.0,Sensitive,0,1,1,0,1,Snail Mucin,Recommended by GlowSense AI
+102,Cetaphil,Moisturizing Cream,Treatment,moisturizing_cream.jpg,2647,4.2,Sensitive,0,1,1,1,0,Snail Mucin,Recommended by GlowSense AI
+103,Minimalist,Alpha Arbutin,Moisturizer,alpha_arbutin.jpg,2511,4.3,Combination,1,0,1,1,0,Hyaluronic Acid,Recommended by GlowSense AI
+104,CeraVe,Foaming Cleanser,Cream,foaming_cleanser.jpg,2536,4.3,Sensitive,0,1,0,1,0,Snail Mucin,Recommended by GlowSense AI
+105,Dot & Key,Vitamin C Serum,Sunscreen,vitamin_c_serum.jpg,2313,4.7,Oily,1,1,1,1,1,Hyaluronic Acid,Recommended by GlowSense AI
+106,CeraVe,Hydrating Cleanser,Sunscreen,hydrating_cleanser.jpg,1555,5.0,Combination,1,1,1,1,0,Niacinamide,Recommended by GlowSense AI
+107,Dot & Key,Cica Gel,Cream,cica_gel.jpg,1598,4.5,Dry,0,1,1,1,0,Snail Mucin,Recommended by GlowSense AI
+108,Neutrogena,Ultra Sheer SPF50,Serum,ultra_sheer_spf50.jpg,1911,4.1,Sensitive,0,0,1,1,1,Vitamin C,Recommended by GlowSense AI
+109,La Roche-Posay,Effaclar Cleanser,Sunscreen,effaclar_cleanser.jpg,462,4.3,All,1,0,0,0,0,Retinol,Recommended by GlowSense AI
+110,La Roche-Posay,Effaclar Duo,Cleanser,effaclar_duo.jpg,1792,4.1,Combination,1,1,0,1,1,Retinol,Recommended by GlowSense AI
+111,La Roche-Posay,Anthelios SPF50,Cream,anthelios_spf50.jpg,2453,4.8,All,1,0,0,1,0,Centella,Recommended by GlowSense AI
+112,Minimalist,Vitamin C Serum,Serum,vitamin_c_serum.jpg,1652,4.4,Dry,1,1,0,0,1,Niacinamide,Recommended by GlowSense AI
+113,The Ordinary,Niacinamide 10%,Serum,niacinamide_10.jpg,302,4.9,Oily,1,0,1,1,1,Vitamin C,Recommended by GlowSense AI
+114,Neutrogena,Hydro Boost,Cream,hydro_boost.jpg,1956,4.8,Sensitive,1,1,0,0,1,Hyaluronic Acid,Recommended by GlowSense AI
+115,Cetaphil,Moisturizing Cream,Serum,moisturizing_cream.jpg,2322,4.8,Combination,0,1,0,1,1,Snail Mucin,Recommended by GlowSense AI
+116,Cetaphil,Moisturizing Cream,Cleanser,moisturizing_cream.jpg,2430,4.2,All,0,1,0,0,0,Retinol,Recommended by GlowSense AI
+117,COSRX,Snail Mucin,Treatment,snail_mucin.jpg,2014,4.1,Combination,1,1,0,0,0,Vitamin C,Recommended by GlowSense AI
+118,Neutrogena,Ultra Sheer SPF50,Cream,ultra_sheer_spf50.jpg,2278,4.4,All,0,1,1,1,0,Retinol,Recommended by GlowSense AI
+119,COSRX,Low pH Cleanser,Cream,low_ph_cleanser.jpg,1058,4.0,All,1,0,0,0,1,Retinol,Recommended by GlowSense AI
+120,Dot & Key,Barrier Repair Cream,Cleanser,barrier_repair_cream.jpg,1189,4.8,Oily,0,1,0,0,0,Niacinamide,Recommended by GlowSense AI
+121,The Ordinary,Azelaic Acid,Sunscreen,azelaic_acid.jpg,691,4.5,Sensitive,0,0,0,1,0,Niacinamide,Recommended by GlowSense AI
+122,Dot & Key,Vitamin C Serum,Sunscreen,vitamin_c_serum.jpg,1165,4.5,Oily,0,1,0,0,1,Centella,Recommended by GlowSense AI
+123,COSRX,Snail Mucin,Cream,snail_mucin.jpg,1916,4.4,All,0,1,0,1,0,Snail Mucin,Recommended by GlowSense AI
+124,Neutrogena,Ultra Sheer SPF50,Cream,ultra_sheer_spf50.jpg,792,4.7,Oily,0,1,0,0,1,Hyaluronic Acid,Recommended by GlowSense AI
+125,La Roche-Posay,Effaclar Cleanser,Moisturizer,effaclar_cleanser.jpg,1743,4.6,Dry,0,1,0,0,0,Hyaluronic Acid,Recommended by GlowSense AI
+126,Dot & Key,Cica Gel,Sunscreen,cica_gel.jpg,765,4.9,Combination,1,1,0,0,1,Centella,Recommended by GlowSense AI
+127,La Roche-Posay,Toleriane Cleanser,Sunscreen,toleriane_cleanser.jpg,1500,5.0,Dry,0,0,0,1,1,Centella,Recommended by GlowSense AI
+128,La Roche-Posay,Effaclar Duo,Cleanser,effaclar_duo.jpg,1671,4.8,Sensitive,1,0,0,1,1,Hyaluronic Acid,Recommended by GlowSense AI
+129,The Ordinary,Azelaic Acid,Cream,azelaic_acid.jpg,1778,4.2,Dry,0,0,0,1,0,Retinol,Recommended by GlowSense AI
+130,Neutrogena,Ultra Sheer SPF50,Serum,ultra_sheer_spf50.jpg,2659,4.8,Sensitive,1,1,0,0,0,Snail Mucin,Recommended by GlowSense AI
+131,Dot & Key,Cica Gel,Cleanser,cica_gel.jpg,2309,4.4,Combination,1,0,1,0,1,Snail Mucin,Recommended by GlowSense AI
+132,La Roche-Posay,Toleriane Cleanser,Sunscreen,toleriane_cleanser.jpg,853,4.1,All,1,0,0,1,0,Salicylic Acid,Recommended by GlowSense AI
+133,The Ordinary,Retinol,Moisturizer,retinol.jpg,821,4.5,Combination,0,1,0,0,0,Ceramides,Recommended by GlowSense AI
+134,Minimalist,Retinol,Cream,retinol.jpg,1945,5.0,Dry,1,0,0,1,0,Ceramides,Recommended by GlowSense AI
+135,Cetaphil,Moisturizing Cream,Sunscreen,moisturizing_cream.jpg,2997,4.8,Oily,1,0,1,0,0,Vitamin C,Recommended by GlowSense AI
+136,The Ordinary,Vitamin C,Moisturizer,vitamin_c.jpg,775,4.3,All,1,0,1,0,1,Vitamin C,Recommended by GlowSense AI
+137,The Ordinary,Azelaic Acid,Cleanser,azelaic_acid.jpg,1146,4.3,Sensitive,0,1,1,1,0,Centella,Recommended by GlowSense AI
+138,The Ordinary,Buffet Serum,Treatment,buffet_serum.jpg,2896,4.8,Sensitive,1,1,0,0,0,Ceramides,Recommended by GlowSense AI
+139,COSRX,AHA Whitehead Power,Treatment,aha_whitehead_power.jpg,628,4.1,Combination,1,1,1,1,1,Salicylic Acid,Recommended by GlowSense AI
+140,The Ordinary,Buffet Serum,Sunscreen,buffet_serum.jpg,2293,4.2,Oily,1,0,1,1,1,Niacinamide,Recommended by GlowSense AI
+141,Cetaphil,Bright Healthy Radiance,Serum,bright_healthy_radiance.jpg,1819,4.6,Dry,0,0,1,1,0,Ceramides,Recommended by GlowSense AI
+142,The Ordinary,Retinol,Moisturizer,retinol.jpg,2475,4.2,Combination,0,1,0,0,1,Niacinamide,Recommended by GlowSense AI
+143,The Ordinary,Retinol,Cleanser,retinol.jpg,903,4.6,All,0,0,0,1,1,Vitamin C,Recommended by GlowSense AI
+144,CeraVe,AM Moisturizer,Sunscreen,am_moisturizer.jpg,1072,4.3,Oily,0,1,1,0,0,Salicylic Acid,Recommended by GlowSense AI
+145,The Ordinary,Buffet Serum,Serum,buffet_serum.jpg,2729,4.8,Sensitive,1,0,0,0,0,Hyaluronic Acid,Recommended by GlowSense AI
+146,The Ordinary,Azelaic Acid,Cleanser,azelaic_acid.jpg,1920,4.1,Combination,0,1,0,1,1,Hyaluronic Acid,Recommended by GlowSense AI
+147,Neutrogena,Ultra Sheer SPF50,Cream,ultra_sheer_spf50.jpg,1155,4.2,Dry,0,0,0,1,1,Salicylic Acid,Recommended by GlowSense AI
+148,Neutrogena,Ultra Sheer SPF50,Treatment,ultra_sheer_spf50.jpg,2232,4.5,Dry,1,1,0,1,1,Ceramides,Recommended by GlowSense AI
+149,CeraVe,Foaming Cleanser,Moisturizer,foaming_cleanser.jpg,465,4.3,Oily,0,0,0,0,1,Hyaluronic Acid,Recommended by GlowSense AI
+150,La Roche-Posay,Toleriane Cleanser,Sunscreen,toleriane_cleanser.jpg,425,4.3,Oily,1,0,0,1,0,Niacinamide,Recommended by GlowSense AI
+151,CeraVe,Moisturizing Cream,Cream,moisturizing_cream.jpg,821,4.5,Dry,0,1,0,0,0,Retinol,Recommended by GlowSense AI
+152,Dot & Key,Watermelon Sunscreen,Treatment,watermelon_sunscreen.jpg,1714,4.5,All,0,0,1,0,1,Snail Mucin,Recommended by GlowSense AI
+153,Neutrogena,Ultra Sheer SPF50,Serum,ultra_sheer_spf50.jpg,2095,4.8,All,0,1,1,0,0,Snail Mucin,Recommended by GlowSense AI
+154,Minimalist,Vitamin C Serum,Treatment,vitamin_c_serum.jpg,2318,4.5,All,0,0,0,1,0,Vitamin C,Recommended by GlowSense AI
+155,La Roche-Posay,Effaclar Duo,Serum,effaclar_duo.jpg,2944,4.4,All,0,1,1,1,0,Ceramides,Recommended by GlowSense AI
+156,Cetaphil,Daily Facial Cleanser,Serum,daily_facial_cleanser.jpg,2102,4.3,Sensitive,0,1,1,1,1,Salicylic Acid,Recommended by GlowSense AI
+157,Minimalist,Retinol,Moisturizer,retinol.jpg,2497,5.0,Dry,1,0,1,0,0,Snail Mucin,Recommended by GlowSense AI
+158,Dot & Key,Vitamin C Serum,Sunscreen,vitamin_c_serum.jpg,1476,4.9,All,0,0,1,1,0,Retinol,Recommended by GlowSense AI
+159,Dot & Key,Barrier Repair Cream,Sunscreen,barrier_repair_cream.jpg,1552,5.0,All,1,0,0,0,0,Salicylic Acid,Recommended by GlowSense AI
+160,La Roche-Posay,Toleriane Cleanser,Treatment,toleriane_cleanser.jpg,1006,4.7,All,0,0,1,0,0,Hyaluronic Acid,Recommended by GlowSense AI
+161,Dot & Key,Watermelon Sunscreen,Moisturizer,watermelon_sunscreen.jpg,1817,4.4,Dry,1,1,1,1,1,Vitamin C,Recommended by GlowSense AI
+162,CeraVe,PM Moisturizer,Treatment,pm_moisturizer.jpg,1961,4.1,Dry,0,1,0,0,0,Hyaluronic Acid,Recommended by GlowSense AI
+163,COSRX,Snail Mucin,Cream,snail_mucin.jpg,1980,4.6,Oily,1,0,1,0,1,Centella,Recommended by GlowSense AI
+164,The Ordinary,Buffet Serum,Serum,buffet_serum.jpg,2756,4.1,Dry,0,1,1,1,1,Ceramides,Recommended by GlowSense AI
+165,CeraVe,Hydrating Cleanser,Serum,hydrating_cleanser.jpg,2865,4.4,Dry,1,0,1,1,0,Salicylic Acid,Recommended by GlowSense AI
+166,Minimalist,Vitamin C Serum,Moisturizer,vitamin_c_serum.jpg,1207,4.3,Dry,0,0,0,0,1,Centella,Recommended by GlowSense AI
+167,La Roche-Posay,Anthelios SPF50,Serum,anthelios_spf50.jpg,515,4.9,Sensitive,1,0,1,0,0,Snail Mucin,Recommended by GlowSense AI
+168,The Ordinary,Vitamin C,Cream,vitamin_c.jpg,2257,4.4,Sensitive,1,0,1,1,0,Niacinamide,Recommended by GlowSense AI
+169,Dot & Key,Vitamin C Serum,Moisturizer,vitamin_c_serum.jpg,1836,4.7,All,1,1,0,1,1,Hyaluronic Acid,Recommended by GlowSense AI
+170,La Roche-Posay,Toleriane Cleanser,Cream,toleriane_cleanser.jpg,2382,4.6,Combination,1,1,1,1,1,Ceramides,Recommended by GlowSense AI
+171,Neutrogena,Oil Free Acne Wash,Cream,oil_free_acne_wash.jpg,2375,4.4,Sensitive,0,0,1,0,1,Snail Mucin,Recommended by GlowSense AI
+172,Cetaphil,Bright Healthy Radiance,Cream,bright_healthy_radiance.jpg,2954,4.5,Sensitive,1,0,1,0,0,Salicylic Acid,Recommended by GlowSense AI
+173,La Roche-Posay,Anthelios SPF50,Cream,anthelios_spf50.jpg,368,4.5,Sensitive,1,0,0,0,1,Retinol,Recommended by GlowSense AI
+174,Cetaphil,Moisturizing Cream,Cream,moisturizing_cream.jpg,2669,4.7,Combination,0,0,1,1,0,Ceramides,Recommended by GlowSense AI
+175,Cetaphil,Bright Healthy Radiance,Serum,bright_healthy_radiance.jpg,2681,4.1,Dry,1,0,0,0,1,Vitamin C,Recommended by GlowSense AI
+176,Neutrogena,Hydro Boost,Sunscreen,hydro_boost.jpg,2916,4.1,Sensitive,0,1,0,0,1,Retinol,Recommended by GlowSense AI
+177,Dot & Key,Vitamin C Serum,Moisturizer,vitamin_c_serum.jpg,899,4.9,All,0,0,1,0,1,Centella,Recommended by GlowSense AI
+178,Minimalist,Alpha Arbutin,Cream,alpha_arbutin.jpg,1307,4.4,All,1,0,1,0,1,Hyaluronic Acid,Recommended by GlowSense AI
+179,Neutrogena,Oil Free Acne Wash,Sunscreen,oil_free_acne_wash.jpg,716,4.8,Oily,1,1,0,1,1,Vitamin C,Recommended by GlowSense AI
+180,Dot & Key,Barrier Repair Cream,Moisturizer,barrier_repair_cream.jpg,2740,4.8,All,0,1,0,1,1,Niacinamide,Recommended by GlowSense AI
+181,Neutrogena,Ultra Sheer SPF50,Sunscreen,ultra_sheer_spf50.jpg,1151,4.9,All,0,1,0,1,0,Ceramides,Recommended by GlowSense AI
+182,La Roche-Posay,Effaclar Cleanser,Treatment,effaclar_cleanser.jpg,611,4.3,All,1,0,0,1,0,Niacinamide,Recommended by GlowSense AI
+183,La Roche-Posay,Toleriane Cleanser,Cream,toleriane_cleanser.jpg,2034,4.9,Oily,1,1,1,1,0,Vitamin C,Recommended by GlowSense AI
+184,Cetaphil,Moisturizing Cream,Cream,moisturizing_cream.jpg,1536,4.8,All,0,1,1,0,0,Niacinamide,Recommended by GlowSense AI
+185,COSRX,BHA Blackhead Power,Serum,bha_blackhead_power.jpg,1033,4.3,Combination,0,0,0,0,1,Snail Mucin,Recommended by GlowSense AI
+186,The Ordinary,Azelaic Acid,Serum,azelaic_acid.jpg,1632,4.5,Sensitive,0,0,1,1,1,Hyaluronic Acid,Recommended by GlowSense AI
+187,COSRX,AHA Whitehead Power,Cleanser,aha_whitehead_power.jpg,2032,4.5,Sensitive,1,1,0,0,1,Niacinamide,Recommended by GlowSense AI
+188,Neutrogena,Ultra Sheer SPF50,Serum,ultra_sheer_spf50.jpg,1322,4.5,Combination,0,0,1,1,1,Vitamin C,Recommended by GlowSense AI
+189,Dot & Key,Cica Gel,Serum,cica_gel.jpg,1384,4.4,Combination,1,1,1,1,1,Vitamin C,Recommended by GlowSense AI
+190,Cetaphil,Gentle Skin Cleanser,Moisturizer,gentle_skin_cleanser.jpg,1142,4.3,Dry,1,1,1,0,0,Niacinamide,Recommended by GlowSense AI
+191,CeraVe,PM Moisturizer,Moisturizer,pm_moisturizer.jpg,2841,5.0,Oily,0,1,0,0,0,Centella,Recommended by GlowSense AI
+192,La Roche-Posay,Anthelios SPF50,Cleanser,anthelios_spf50.jpg,2638,4.6,Sensitive,1,1,0,1,1,Hyaluronic Acid,Recommended by GlowSense AI
+193,The Ordinary,Azelaic Acid,Treatment,azelaic_acid.jpg,2229,4.6,Combination,1,1,0,0,1,Ceramides,Recommended by GlowSense AI
+194,Minimalist,Vitamin C Serum,Cleanser,vitamin_c_serum.jpg,1743,4.3,Sensitive,1,1,1,1,0,Vitamin C,Recommended by GlowSense AI
+195,Cetaphil,Bright Healthy Radiance,Cleanser,bright_healthy_radiance.jpg,2251,4.7,All,1,1,1,1,0,Snail Mucin,Recommended by GlowSense AI
+196,The Ordinary,Niacinamide 10%,Cream,niacinamide_10.jpg,2482,4.6,Dry,1,0,0,1,1,Snail Mucin,Recommended by GlowSense AI
+197,CeraVe,SA Cleanser,Cream,sa_cleanser.jpg,713,4.0,Sensitive,0,1,1,1,0,Niacinamide,Recommended by GlowSense AI
+198,COSRX,BHA Blackhead Power,Treatment,bha_blackhead_power.jpg,660,4.9,All,1,0,1,1,0,Centella,Recommended by GlowSense AI
+199,Minimalist,Retinol,Moisturizer,retinol.jpg,2817,4.8,Dry,0,0,1,1,0,Snail Mucin,Recommended by GlowSense AI
+200,Cetaphil,Gentle Skin Cleanser,Cream,gentle_skin_cleanser.jpg,2833,4.9,Dry,0,0,0,1,1,Ceramides,Recommended by GlowSense AI
+201,Cetaphil,Moisturizing Lotion,Moisturizer,moisturizing_lotion.jpg,1173,4.0,Dry,0,1,0,1,0,Centella,Recommended by GlowSense AI
+202,CeraVe,Hydrating Cleanser,Treatment,hydrating_cleanser.jpg,1578,4.9,Combination,1,1,1,0,0,Vitamin C,Recommended by GlowSense AI
+203,Cetaphil,Gentle Skin Cleanser,Treatment,gentle_skin_cleanser.jpg,2223,4.6,Combination,1,0,1,0,1,Hyaluronic Acid,Recommended by GlowSense AI
+204,Cetaphil,Moisturizing Lotion,Moisturizer,moisturizing_lotion.jpg,1471,4.4,Dry,1,1,0,0,0,Centella,Recommended by GlowSense AI
+205,The Ordinary,Niacinamide 10%,Cleanser,niacinamide_10.jpg,2716,4.7,Dry,0,1,0,1,1,Salicylic Acid,Recommended by GlowSense AI
+206,Dot & Key,Barrier Repair Cream,Treatment,barrier_repair_cream.jpg,709,4.8,Sensitive,1,1,1,0,1,Salicylic Acid,Recommended by GlowSense AI
+207,Dot & Key,Watermelon Sunscreen,Sunscreen,watermelon_sunscreen.jpg,837,4.0,Combination,0,1,1,1,1,Ceramides,Recommended by GlowSense AI
+208,COSRX,Low pH Cleanser,Moisturizer,low_ph_cleanser.jpg,630,4.7,Dry,0,1,0,1,0,Salicylic Acid,Recommended by GlowSense AI
+209,La Roche-Posay,Toleriane Cleanser,Sunscreen,toleriane_cleanser.jpg,2918,4.5,Dry,0,1,0,1,0,Snail Mucin,Recommended by GlowSense AI
+210,COSRX,AHA Whitehead Power,Sunscreen,aha_whitehead_power.jpg,524,4.7,Sensitive,0,0,0,1,0,Snail Mucin,Recommended by GlowSense AI
+211,CeraVe,AM Moisturizer,Sunscreen,am_moisturizer.jpg,1983,4.2,Combination,1,1,0,1,0,Centella,Recommended by GlowSense AI
+212,Cetaphil,Bright Healthy Radiance,Cream,bright_healthy_radiance.jpg,2266,4.8,All,1,1,1,1,0,Ceramides,Recommended by GlowSense AI
+213,Cetaphil,Moisturizing Cream,Cleanser,moisturizing_cream.jpg,948,4.9,Oily,0,1,1,1,1,Salicylic Acid,Recommended by GlowSense AI
+214,Neutrogena,Ultra Sheer SPF50,Cleanser,ultra_sheer_spf50.jpg,1678,4.0,All,1,1,1,0,0,Retinol,Recommended by GlowSense AI
+215,Minimalist,Niacinamide 10%,Cleanser,niacinamide_10.jpg,2149,4.3,All,1,0,0,1,1,Snail Mucin,Recommended by GlowSense AI
+216,CeraVe,Hydrating Cleanser,Serum,hydrating_cleanser.jpg,833,4.1,Sensitive,0,0,0,1,1,Hyaluronic Acid,Recommended by GlowSense AI
+217,The Ordinary,Azelaic Acid,Cleanser,azelaic_acid.jpg,1692,4.2,Oily,0,1,1,0,1,Ceramides,Recommended by GlowSense AI
+218,Cetaphil,Bright Healthy Radiance,Sunscreen,bright_healthy_radiance.jpg,1269,4.5,Dry,1,0,0,0,1,Hyaluronic Acid,Recommended by GlowSense AI
+219,CeraVe,Moisturizing Cream,Cream,moisturizing_cream.jpg,2776,4.5,Oily,0,0,0,1,0,Retinol,Recommended by GlowSense AI
+220,Dot & Key,Watermelon Sunscreen,Serum,watermelon_sunscreen.jpg,1054,4.3,Dry,0,1,0,0,1,Ceramides,Recommended by GlowSense AI
+221,CeraVe,PM Moisturizer,Cleanser,pm_moisturizer.jpg,1927,4.7,All,0,0,1,1,1,Centella,Recommended by GlowSense AI
+222,La Roche-Posay,Effaclar Duo,Cleanser,effaclar_duo.jpg,1901,4.7,Dry,0,0,0,1,0,Ceramides,Recommended by GlowSense AI
+223,Dot & Key,Cica Gel,Serum,cica_gel.jpg,1747,4.8,Dry,1,0,0,0,1,Vitamin C,Recommended by GlowSense AI
+224,Dot & Key,Watermelon Sunscreen,Treatment,watermelon_sunscreen.jpg,1877,4.6,Combination,1,1,1,1,0,Snail Mucin,Recommended by GlowSense AI
+225,Cetaphil,Gentle Skin Cleanser,Cleanser,gentle_skin_cleanser.jpg,1600,4.4,Sensitive,0,1,0,1,0,Hyaluronic Acid,Recommended by GlowSense AI
+226,COSRX,BHA Blackhead Power,Sunscreen,bha_blackhead_power.jpg,2477,4.8,Oily,0,0,1,1,0,Vitamin C,Recommended by GlowSense AI
+227,Cetaphil,Moisturizing Lotion,Sunscreen,moisturizing_lotion.jpg,826,4.3,Dry,0,1,0,0,1,Hyaluronic Acid,Recommended by GlowSense AI
+228,The Ordinary,Buffet Serum,Cleanser,buffet_serum.jpg,634,4.7,Combination,1,0,0,1,1,Centella,Recommended by GlowSense AI
+229,The Ordinary,Azelaic Acid,Cleanser,azelaic_acid.jpg,671,4.3,Combination,1,1,0,0,1,Niacinamide,Recommended by GlowSense AI
+230,COSRX,AHA Whitehead Power,Cleanser,aha_whitehead_power.jpg,1847,4.8,All,1,1,0,1,0,Hyaluronic Acid,Recommended by GlowSense AI
+231,La Roche-Posay,Toleriane Cleanser,Sunscreen,toleriane_cleanser.jpg,519,4.6,All,0,0,1,1,0,Ceramides,Recommended by GlowSense AI
+232,The Ordinary,Buffet Serum,Moisturizer,buffet_serum.jpg,365,4.6,Sensitive,0,1,1,0,1,Vitamin C,Recommended by GlowSense AI
+233,COSRX,Snail Mucin,Sunscreen,snail_mucin.jpg,2980,4.8,Sensitive,1,0,1,1,1,Salicylic Acid,Recommended by GlowSense AI
+234,La Roche-Posay,Toleriane Cleanser,Sunscreen,toleriane_cleanser.jpg,1419,4.7,Sensitive,1,0,0,0,0,Salicylic Acid,Recommended by GlowSense AI
+235,COSRX,Snail Mucin,Cleanser,snail_mucin.jpg,1001,4.8,Oily,0,0,1,0,0,Ceramides,Recommended by GlowSense AI
+236,COSRX,BHA Blackhead Power,Serum,bha_blackhead_power.jpg,1812,4.3,Combination,0,1,0,0,1,Retinol,Recommended by GlowSense AI
+237,The Ordinary,Vitamin C,Treatment,vitamin_c.jpg,1217,4.1,All,1,0,0,1,0,Vitamin C,Recommended by GlowSense AI
+238,COSRX,Low pH Cleanser,Treatment,low_ph_cleanser.jpg,570,4.2,Sensitive,1,0,1,1,0,Snail Mucin,Recommended by GlowSense AI
+239,Neutrogena,Ultra Sheer SPF50,Treatment,ultra_sheer_spf50.jpg,2113,4.4,Dry,0,0,0,1,0,Salicylic Acid,Recommended by GlowSense AI
+240,COSRX,BHA Blackhead Power,Treatment,bha_blackhead_power.jpg,753,4.6,Oily,1,0,1,0,0,Centella,Recommended by GlowSense AI
+241,Minimalist,Vitamin C Serum,Moisturizer,vitamin_c_serum.jpg,2054,4.3,Sensitive,1,1,0,0,0,Retinol,Recommended by GlowSense AI
+242,CeraVe,SA Cleanser,Serum,sa_cleanser.jpg,925,4.4,Dry,1,0,1,1,1,Hyaluronic Acid,Recommended by GlowSense AI
+243,The Ordinary,Vitamin C,Moisturizer,vitamin_c.jpg,634,4.1,All,1,1,0,1,1,Salicylic Acid,Recommended by GlowSense AI
+244,Dot & Key,Barrier Repair Cream,Serum,barrier_repair_cream.jpg,596,4.5,Dry,1,1,0,1,0,Salicylic Acid,Recommended by GlowSense AI
+245,Dot & Key,Vitamin C Serum,Cream,vitamin_c_serum.jpg,978,5.0,Sensitive,1,1,1,1,0,Vitamin C,Recommended by GlowSense AI
+246,Dot & Key,Vitamin C Serum,Moisturizer,vitamin_c_serum.jpg,971,4.9,Dry,0,1,0,0,0,Niacinamide,Recommended by GlowSense AI
+247,CeraVe,AM Moisturizer,Serum,am_moisturizer.jpg,1329,4.9,Dry,0,1,1,1,0,Salicylic Acid,Recommended by GlowSense AI
+248,Neutrogena,Hydro Boost,Treatment,hydro_boost.jpg,1932,4.5,Sensitive,0,0,1,1,1,Snail Mucin,Recommended by GlowSense AI
+249,CeraVe,Foaming Cleanser,Cleanser,foaming_cleanser.jpg,534,4.9,Dry,0,1,1,1,0,Hyaluronic Acid,Recommended by GlowSense AI
+250,Neutrogena,Oil Free Acne Wash,Cream,oil_free_acne_wash.jpg,1307,4.4,Dry,0,1,1,0,0,Vitamin C,Recommended by GlowSense AI
+251,CeraVe,PM Moisturizer,Cleanser,pm_moisturizer.jpg,595,4.9,All,0,0,0,0,0,Centella,Recommended by GlowSense AI
+252,Minimalist,Salicylic Acid,Serum,salicylic_acid.jpg,1058,4.2,Oily,1,0,0,1,0,Hyaluronic Acid,Recommended by GlowSense AI
+253,Dot & Key,Vitamin C Serum,Sunscreen,vitamin_c_serum.jpg,1577,4.6,Sensitive,0,0,1,1,0,Centella,Recommended by GlowSense AI
+254,COSRX,BHA Blackhead Power,Serum,bha_blackhead_power.jpg,2991,4.1,All,0,1,0,0,1,Snail Mucin,Recommended by GlowSense AI
+255,La Roche-Posay,Toleriane Cleanser,Moisturizer,toleriane_cleanser.jpg,2585,4.7,All,0,1,1,1,1,Ceramides,Recommended by GlowSense AI
+256,The Ordinary,Retinol,Moisturizer,retinol.jpg,546,4.5,All,0,0,1,1,1,Ceramides,Recommended by GlowSense AI
+257,Minimalist,Tranexamic Acid,Sunscreen,tranexamic_acid.jpg,1526,4.8,Dry,1,1,1,0,1,Hyaluronic Acid,Recommended by GlowSense AI
+258,La Roche-Posay,Toleriane Cleanser,Treatment,toleriane_cleanser.jpg,358,4.4,Oily,1,1,1,1,1,Retinol,Recommended by GlowSense AI
+259,Minimalist,Niacinamide 10%,Cream,niacinamide_10.jpg,1919,4.4,Sensitive,1,0,1,1,0,Vitamin C,Recommended by GlowSense AI
+260,CeraVe,AM Moisturizer,Serum,am_moisturizer.jpg,1379,4.6,Dry,1,0,0,0,1,Ceramides,Recommended by GlowSense AI
+261,Minimalist,Vitamin C Serum,Moisturizer,vitamin_c_serum.jpg,2940,4.5,Sensitive,0,1,1,1,0,Retinol,Recommended by GlowSense AI
+262,La Roche-Posay,Toleriane Cleanser,Cleanser,toleriane_cleanser.jpg,1035,4.6,Sensitive,0,0,1,1,0,Vitamin C,Recommended by GlowSense AI
+263,Neutrogena,Oil Free Acne Wash,Serum,oil_free_acne_wash.jpg,1251,4.8,Combination,1,0,1,1,1,Retinol,Recommended by GlowSense AI
+264,Neutrogena,Hydro Boost,Treatment,hydro_boost.jpg,519,4.3,Oily,0,1,0,1,1,Niacinamide,Recommended by GlowSense AI
+265,Neutrogena,Hydro Boost,Sunscreen,hydro_boost.jpg,2522,4.8,Oily,1,0,1,1,0,Snail Mucin,Recommended by GlowSense AI
+266,COSRX,Snail Mucin,Moisturizer,snail_mucin.jpg,2505,4.1,Sensitive,0,1,1,0,1,Retinol,Recommended by GlowSense AI
+267,Minimalist,Niacinamide 10%,Serum,niacinamide_10.jpg,2127,4.5,Combination,1,0,1,1,1,Salicylic Acid,Recommended by GlowSense AI
+268,COSRX,Snail Mucin,Cream,snail_mucin.jpg,875,4.9,All,1,1,0,1,1,Snail Mucin,Recommended by GlowSense AI
+269,The Ordinary,Vitamin C,Serum,vitamin_c.jpg,2645,5.0,Combination,0,1,0,1,0,Ceramides,Recommended by GlowSense AI
+270,COSRX,Low pH Cleanser,Cleanser,low_ph_cleanser.jpg,1510,4.6,Sensitive,1,1,0,1,1,Snail Mucin,Recommended by GlowSense AI
+271,CeraVe,SA Cleanser,Cream,sa_cleanser.jpg,308,4.3,Combination,0,1,0,1,0,Salicylic Acid,Recommended by GlowSense AI
+272,Minimalist,Alpha Arbutin,Sunscreen,alpha_arbutin.jpg,834,4.2,All,1,0,0,0,1,Vitamin C,Recommended by GlowSense AI
+273,Dot & Key,Cica Gel,Moisturizer,cica_gel.jpg,795,4.4,All,0,1,1,1,0,Salicylic Acid,Recommended by GlowSense AI
+274,Neutrogena,Oil Free Acne Wash,Moisturizer,oil_free_acne_wash.jpg,1599,4.1,Sensitive,0,1,0,1,0,Centella,Recommended by GlowSense AI
+275,CeraVe,AM Moisturizer,Cleanser,am_moisturizer.jpg,1876,4.7,Dry,1,1,0,1,1,Retinol,Recommended by GlowSense AI
+276,The Ordinary,Vitamin C,Cleanser,vitamin_c.jpg,1151,4.7,Oily,1,0,0,0,0,Niacinamide,Recommended by GlowSense AI
+277,Dot & Key,Vitamin C Serum,Moisturizer,vitamin_c_serum.jpg,2640,4.7,All,0,1,1,1,1,Retinol,Recommended by GlowSense AI
+278,Minimalist,Vitamin C Serum,Cream,vitamin_c_serum.jpg,412,4.8,All,1,1,1,0,1,Snail Mucin,Recommended by GlowSense AI
+279,CeraVe,Hydrating Cleanser,Cream,hydrating_cleanser.jpg,1115,4.3,Combination,1,1,0,0,1,Retinol,Recommended by GlowSense AI
+280,The Ordinary,Vitamin C,Serum,vitamin_c.jpg,1549,4.1,Combination,0,0,1,0,1,Centella,Recommended by GlowSense AI
+281,La Roche-Posay,Effaclar Duo,Cleanser,effaclar_duo.jpg,736,4.5,Dry,0,0,0,0,1,Vitamin C,Recommended by GlowSense AI
+282,Neutrogena,Ultra Sheer SPF50,Treatment,ultra_sheer_spf50.jpg,2677,5.0,All,0,0,0,1,0,Hyaluronic Acid,Recommended by GlowSense AI
+283,Neutrogena,Ultra Sheer SPF50,Serum,ultra_sheer_spf50.jpg,2933,4.9,Combination,1,1,1,1,1,Salicylic Acid,Recommended by GlowSense AI
+284,The Ordinary,Niacinamide 10%,Cleanser,niacinamide_10.jpg,1918,4.9,Combination,1,1,1,0,0,Salicylic Acid,Recommended by GlowSense AI
+285,The Ordinary,Retinol,Moisturizer,retinol.jpg,1103,4.6,Combination,1,1,1,0,0,Centella,Recommended by GlowSense AI
+286,The Ordinary,Azelaic Acid,Treatment,azelaic_acid.jpg,451,4.6,Oily,1,0,1,0,0,Niacinamide,Recommended by GlowSense AI
+287,The Ordinary,Buffet Serum,Moisturizer,buffet_serum.jpg,2632,4.8,Oily,1,1,0,1,1,Ceramides,Recommended by GlowSense AI
+288,Dot & Key,Barrier Repair Cream,Treatment,barrier_repair_cream.jpg,1372,4.7,Dry,1,1,0,1,0,Ceramides,Recommended by GlowSense AI
+289,Minimalist,Alpha Arbutin,Cleanser,alpha_arbutin.jpg,923,4.7,Oily,0,0,0,0,0,Hyaluronic Acid,Recommended by GlowSense AI
+290,Neutrogena,Hydro Boost,Moisturizer,hydro_boost.jpg,376,4.7,Combination,1,1,0,1,1,Salicylic Acid,Recommended by GlowSense AI
+291,Minimalist,Niacinamide 10%,Sunscreen,niacinamide_10.jpg,908,4.7,All,0,0,1,0,0,Ceramides,Recommended by GlowSense AI
+292,CeraVe,SA Cleanser,Moisturizer,sa_cleanser.jpg,560,4.8,All,0,1,0,1,0,Niacinamide,Recommended by GlowSense AI
+293,The Ordinary,Vitamin C,Treatment,vitamin_c.jpg,364,4.2,Sensitive,0,1,0,1,0,Snail Mucin,Recommended by GlowSense AI
+294,The Ordinary,Retinol,Sunscreen,retinol.jpg,1068,4.9,Sensitive,1,1,0,0,0,Salicylic Acid,Recommended by GlowSense AI
+295,Neutrogena,Oil Free Acne Wash,Treatment,oil_free_acne_wash.jpg,2359,4.6,Dry,0,1,0,0,1,Salicylic Acid,Recommended by GlowSense AI
+296,CeraVe,AM Moisturizer,Cream,am_moisturizer.jpg,1614,4.8,Sensitive,1,1,0,1,0,Vitamin C,Recommended by GlowSense AI
+297,Neutrogena,Hydro Boost,Sunscreen,hydro_boost.jpg,2490,4.1,Dry,0,1,0,0,1,Salicylic Acid,Recommended by GlowSense AI
+298,Neutrogena,Ultra Sheer SPF50,Moisturizer,ultra_sheer_spf50.jpg,672,4.9,Sensitive,0,1,0,0,0,Ceramides,Recommended by GlowSense AI
+299,Dot & Key,Watermelon Sunscreen,Moisturizer,watermelon_sunscreen.jpg,1102,4.3,Sensitive,1,1,1,0,1,Centella,Recommended by GlowSense AI
+300,CeraVe,Hydrating Cleanser,Treatment,hydrating_cleanser.jpg,552,4.6,Dry,0,0,1,0,1,Retinol,Recommended by GlowSense AI
+301,CeraVe,Hydrating Cleanser,Moisturizer,hydrating_cleanser.jpg,2222,4.7,Combination,1,0,0,0,1,Snail Mucin,Recommended by GlowSense AI
+302,Dot & Key,Watermelon Sunscreen,Cleanser,watermelon_sunscreen.jpg,2925,4.9,Combination,1,1,1,1,0,Salicylic Acid,Recommended by GlowSense AI
+303,COSRX,Low pH Cleanser,Serum,low_ph_cleanser.jpg,1808,4.2,Dry,0,0,0,0,0,Salicylic Acid,Recommended by GlowSense AI
+304,Minimalist,Vitamin C Serum,Moisturizer,vitamin_c_serum.jpg,2454,4.2,Oily,1,0,1,1,1,Hyaluronic Acid,Recommended by GlowSense AI
+305,Neutrogena,Ultra Sheer SPF50,Cream,ultra_sheer_spf50.jpg,316,4.1,Dry,1,0,1,0,1,Snail Mucin,Recommended by GlowSense AI
+306,La Roche-Posay,Effaclar Cleanser,Treatment,effaclar_cleanser.jpg,2086,4.6,Dry,1,1,0,1,0,Ceramides,Recommended by GlowSense AI
+307,La Roche-Posay,Toleriane Cleanser,Sunscreen,toleriane_cleanser.jpg,783,4.6,Combination,1,0,0,0,1,Hyaluronic Acid,Recommended by GlowSense AI
+308,Cetaphil,Daily Facial Cleanser,Cream,daily_facial_cleanser.jpg,1788,4.5,All,0,1,1,0,0,Hyaluronic Acid,Recommended by GlowSense AI
+309,Neutrogena,Oil Free Acne Wash,Treatment,oil_free_acne_wash.jpg,2911,4.2,Dry,1,1,0,1,0,Hyaluronic Acid,Recommended by GlowSense AI
+310,Dot & Key,Cica Gel,Cleanser,cica_gel.jpg,2779,4.7,Combination,0,0,0,1,0,Hyaluronic Acid,Recommended by GlowSense AI
+311,CeraVe,AM Moisturizer,Moisturizer,am_moisturizer.jpg,2681,4.8,Dry,0,0,0,0,0,Centella,Recommended by GlowSense AI
+312,La Roche-Posay,Effaclar Duo,Sunscreen,effaclar_duo.jpg,1102,5.0,Oily,0,1,1,1,1,Centella,Recommended by GlowSense AI
+313,La Roche-Posay,Anthelios SPF50,Sunscreen,anthelios_spf50.jpg,1617,4.3,Combination,0,0,1,1,1,Niacinamide,Recommended by GlowSense AI
+314,Minimalist,Vitamin C Serum,Cleanser,vitamin_c_serum.jpg,1175,4.7,Combination,1,1,0,1,0,Ceramides,Recommended by GlowSense AI
+315,COSRX,AHA Whitehead Power,Serum,aha_whitehead_power.jpg,1685,4.8,All,1,1,0,1,0,Hyaluronic Acid,Recommended by GlowSense AI
+316,Neutrogena,Ultra Sheer SPF50,Cream,ultra_sheer_spf50.jpg,660,4.9,Sensitive,0,1,0,1,1,Snail Mucin,Recommended by GlowSense AI
+317,Dot & Key,Vitamin C Serum,Treatment,vitamin_c_serum.jpg,563,4.1,Sensitive,1,1,0,1,1,Ceramides,Recommended by GlowSense AI
+318,The Ordinary,Retinol,Moisturizer,retinol.jpg,2345,4.1,Sensitive,1,0,0,0,0,Niacinamide,Recommended by GlowSense AI
+319,CeraVe,AM Moisturizer,Cream,am_moisturizer.jpg,1369,4.9,Dry,0,1,0,0,1,Centella,Recommended by GlowSense AI
+320,Minimalist,Retinol,Cleanser,retinol.jpg,1137,4.2,Oily,0,1,0,1,0,Ceramides,Recommended by GlowSense AI
+321,Cetaphil,Gentle Skin Cleanser,Serum,gentle_skin_cleanser.jpg,314,4.5,Combination,1,1,0,0,0,Centella,Recommended by GlowSense AI
+322,The Ordinary,Vitamin C,Serum,vitamin_c.jpg,756,4.9,Dry,1,1,0,1,1,Centella,Recommended by GlowSense AI
+323,La Roche-Posay,Toleriane Cleanser,Treatment,toleriane_cleanser.jpg,2583,4.1,Dry,0,1,1,0,0,Ceramides,Recommended by GlowSense AI
+324,Neutrogena,Hydro Boost,Cream,hydro_boost.jpg,2886,4.7,Dry,0,1,0,0,0,Hyaluronic Acid,Recommended by GlowSense AI
+325,COSRX,AHA Whitehead Power,Cream,aha_whitehead_power.jpg,2569,4.7,Oily,0,1,0,1,0,Hyaluronic Acid,Recommended by GlowSense AI
+326,COSRX,Low pH Cleanser,Sunscreen,low_ph_cleanser.jpg,2717,4.0,Combination,0,0,0,1,0,Salicylic Acid,Recommended by GlowSense AI
+327,Dot & Key,Vitamin C Serum,Moisturizer,vitamin_c_serum.jpg,1372,4.7,Combination,0,1,0,0,1,Salicylic Acid,Recommended by GlowSense AI
+328,Neutrogena,Hydro Boost,Treatment,hydro_boost.jpg,1363,4.7,Sensitive,1,0,1,1,1,Ceramides,Recommended by GlowSense AI
+329,The Ordinary,Retinol,Cleanser,retinol.jpg,2627,4.8,Oily,1,0,1,1,1,Salicylic Acid,Recommended by GlowSense AI
+330,Neutrogena,Ultra Sheer SPF50,Serum,ultra_sheer_spf50.jpg,1733,4.9,Sensitive,0,0,1,1,1,Niacinamide,Recommended by GlowSense AI
+331,Cetaphil,Moisturizing Lotion,Sunscreen,moisturizing_lotion.jpg,516,4.8,Sensitive,0,0,1,0,0,Centella,Recommended by GlowSense AI
+332,La Roche-Posay,Toleriane Cleanser,Cleanser,toleriane_cleanser.jpg,2205,4.9,Sensitive,1,1,0,0,0,Snail Mucin,Recommended by GlowSense AI
+333,La Roche-Posay,Toleriane Cleanser,Cream,toleriane_cleanser.jpg,1608,4.3,Oily,0,0,0,0,0,Vitamin C,Recommended by GlowSense AI
+334,Dot & Key,Barrier Repair Cream,Sunscreen,barrier_repair_cream.jpg,1098,4.8,Dry,0,1,0,0,0,Salicylic Acid,Recommended by GlowSense AI
+335,Minimalist,Tranexamic Acid,Serum,tranexamic_acid.jpg,953,4.3,Sensitive,1,1,0,0,0,Snail Mucin,Recommended by GlowSense AI
+336,CeraVe,Hydrating Cleanser,Moisturizer,hydrating_cleanser.jpg,754,4.6,Dry,0,1,0,0,1,Vitamin C,Recommended by GlowSense AI
+337,La Roche-Posay,Effaclar Cleanser,Sunscreen,effaclar_cleanser.jpg,822,4.7,Dry,1,0,1,1,1,Retinol,Recommended by GlowSense AI
+338,Neutrogena,Hydro Boost,Cream,hydro_boost.jpg,897,4.0,All,0,1,1,1,1,Retinol,Recommended by GlowSense AI
+339,Dot & Key,Vitamin C Serum,Treatment,vitamin_c_serum.jpg,1599,5.0,Dry,0,1,0,1,0,Vitamin C,Recommended by GlowSense AI
+340,Neutrogena,Ultra Sheer SPF50,Serum,ultra_sheer_spf50.jpg,801,4.1,Dry,1,0,0,0,0,Retinol,Recommended by GlowSense AI
+341,Neutrogena,Ultra Sheer SPF50,Moisturizer,ultra_sheer_spf50.jpg,399,4.3,Oily,1,0,1,0,1,Salicylic Acid,Recommended by GlowSense AI
+342,Dot & Key,Watermelon Sunscreen,Treatment,watermelon_sunscreen.jpg,2486,5.0,Sensitive,1,0,0,1,0,Snail Mucin,Recommended by GlowSense AI
+343,Dot & Key,Watermelon Sunscreen,Moisturizer,watermelon_sunscreen.jpg,1758,4.6,Oily,0,1,0,1,0,Ceramides,Recommended by GlowSense AI
+344,Minimalist,Alpha Arbutin,Sunscreen,alpha_arbutin.jpg,327,4.2,Oily,0,0,0,1,0,Snail Mucin,Recommended by GlowSense AI
+345,Cetaphil,Moisturizing Cream,Cream,moisturizing_cream.jpg,2543,4.1,Sensitive,1,0,1,1,1,Salicylic Acid,Recommended by GlowSense AI
+346,Dot & Key,Watermelon Sunscreen,Cream,watermelon_sunscreen.jpg,2596,4.5,All,1,1,1,0,1,Retinol,Recommended by GlowSense AI
+347,The Ordinary,Azelaic Acid,Serum,azelaic_acid.jpg,756,4.8,Combination,0,1,0,1,0,Niacinamide,Recommended by GlowSense AI
+348,COSRX,Low pH Cleanser,Cream,low_ph_cleanser.jpg,459,4.0,Oily,1,1,0,0,1,Ceramides,Recommended by GlowSense AI
+349,Cetaphil,Gentle Skin Cleanser,Serum,gentle_skin_cleanser.jpg,2731,4.3,Oily,1,0,0,0,0,Ceramides,Recommended by GlowSense AI
+350,La Roche-Posay,Toleriane Cleanser,Serum,toleriane_cleanser.jpg,302,4.8,Oily,0,1,0,0,0,Vitamin C,Recommended by GlowSense AI
+351,The Ordinary,Azelaic Acid,Cleanser,azelaic_acid.jpg,1550,4.2,All,1,1,0,1,0,Retinol,Recommended by GlowSense AI
+352,La Roche-Posay,Effaclar Cleanser,Sunscreen,effaclar_cleanser.jpg,2230,4.3,Sensitive,1,1,1,0,1,Centella,Recommended by GlowSense AI
+353,Neutrogena,Oil Free Acne Wash,Cleanser,oil_free_acne_wash.jpg,2562,4.9,Oily,1,0,1,1,0,Hyaluronic Acid,Recommended by GlowSense AI
+354,CeraVe,Hydrating Cleanser,Moisturizer,hydrating_cleanser.jpg,1073,4.7,Combination,1,1,0,0,0,Niacinamide,Recommended by GlowSense AI
+355,Cetaphil,Daily Facial Cleanser,Cream,daily_facial_cleanser.jpg,2151,4.1,Sensitive,1,0,1,1,1,Salicylic Acid,Recommended by GlowSense AI
+356,Dot & Key,Cica Gel,Serum,cica_gel.jpg,2259,4.2,Dry,1,1,1,0,0,Salicylic Acid,Recommended by GlowSense AI
+357,Dot & Key,Cica Gel,Serum,cica_gel.jpg,1485,4.8,Oily,0,0,0,0,0,Vitamin C,Recommended by GlowSense AI
+358,CeraVe,Hydrating Cleanser,Sunscreen,hydrating_cleanser.jpg,1350,4.6,Sensitive,1,1,0,0,0,Vitamin C,Recommended by GlowSense AI
+359,La Roche-Posay,Effaclar Cleanser,Serum,effaclar_cleanser.jpg,617,4.1,Sensitive,0,0,0,0,0,Snail Mucin,Recommended by GlowSense AI
+360,Dot & Key,Cica Gel,Cream,cica_gel.jpg,2225,4.7,Dry,1,1,1,0,0,Vitamin C,Recommended by GlowSense AI
+361,Dot & Key,Watermelon Sunscreen,Moisturizer,watermelon_sunscreen.jpg,1058,4.6,Combination,1,0,1,0,1,Hyaluronic Acid,Recommended by GlowSense AI
+362,Dot & Key,Barrier Repair Cream,Moisturizer,barrier_repair_cream.jpg,1651,4.8,Sensitive,0,1,0,0,1,Salicylic Acid,Recommended by GlowSense AI
+363,The Ordinary,Azelaic Acid,Moisturizer,azelaic_acid.jpg,2059,4.2,Combination,1,1,0,1,0,Salicylic Acid,Recommended by GlowSense AI
+364,La Roche-Posay,Anthelios SPF50,Treatment,anthelios_spf50.jpg,820,4.2,Dry,0,0,0,0,1,Niacinamide,Recommended by GlowSense AI
+365,Cetaphil,Moisturizing Cream,Moisturizer,moisturizing_cream.jpg,2584,5.0,Combination,0,1,1,1,0,Snail Mucin,Recommended by GlowSense AI
+366,Dot & Key,Cica Gel,Moisturizer,cica_gel.jpg,1764,4.0,Oily,0,0,1,1,1,Centella,Recommended by GlowSense AI
+367,Dot & Key,Barrier Repair Cream,Cream,barrier_repair_cream.jpg,1661,4.2,All,1,0,1,0,0,Salicylic Acid,Recommended by GlowSense AI
+368,Dot & Key,Barrier Repair Cream,Cleanser,barrier_repair_cream.jpg,2992,4.0,Sensitive,1,1,0,0,0,Snail Mucin,Recommended by GlowSense AI
+369,Cetaphil,Bright Healthy Radiance,Sunscreen,bright_healthy_radiance.jpg,2104,4.9,All,0,1,1,1,1,Ceramides,Recommended by GlowSense AI
+370,La Roche-Posay,Anthelios SPF50,Cream,anthelios_spf50.jpg,2889,4.6,Sensitive,1,0,0,0,1,Centella,Recommended by GlowSense AI
+371,Dot & Key,Cica Gel,Cleanser,cica_gel.jpg,2909,4.9,Oily,0,0,1,1,1,Salicylic Acid,Recommended by GlowSense AI
+372,Dot & Key,Cica Gel,Cream,cica_gel.jpg,2129,5.0,All,1,1,0,1,0,Vitamin C,Recommended by GlowSense AI
+373,Minimalist,Tranexamic Acid,Cream,tranexamic_acid.jpg,1170,4.3,Dry,1,0,1,0,1,Ceramides,Recommended by GlowSense AI
+374,Neutrogena,Hydro Boost,Cream,hydro_boost.jpg,2587,5.0,All,1,0,0,1,0,Ceramides,Recommended by GlowSense AI
+375,Neutrogena,Hydro Boost,Cream,hydro_boost.jpg,1645,4.8,Sensitive,0,1,0,1,0,Hyaluronic Acid,Recommended by GlowSense AI
+376,CeraVe,PM Moisturizer,Treatment,pm_moisturizer.jpg,2713,4.9,Combination,1,0,0,1,1,Centella,Recommended by GlowSense AI
+377,COSRX,BHA Blackhead Power,Cream,bha_blackhead_power.jpg,2135,4.2,All,1,0,0,0,0,Retinol,Recommended by GlowSense AI
+378,COSRX,Low pH Cleanser,Treatment,low_ph_cleanser.jpg,1558,4.9,Combination,1,1,0,0,0,Ceramides,Recommended by GlowSense AI
+379,La Roche-Posay,Anthelios SPF50,Sunscreen,anthelios_spf50.jpg,1187,4.8,Sensitive,1,1,0,1,0,Ceramides,Recommended by GlowSense AI
+380,Dot & Key,Barrier Repair Cream,Serum,barrier_repair_cream.jpg,1306,4.8,Combination,1,1,1,1,1,Centella,Recommended by GlowSense AI
+381,La Roche-Posay,Anthelios SPF50,Serum,anthelios_spf50.jpg,2690,4.6,Sensitive,1,0,1,0,1,Snail Mucin,Recommended by GlowSense AI
+382,CeraVe,Moisturizing Cream,Cleanser,moisturizing_cream.jpg,1440,4.8,Combination,1,0,0,1,0,Hyaluronic Acid,Recommended by GlowSense AI
+383,CeraVe,Moisturizing Cream,Moisturizer,moisturizing_cream.jpg,927,4.1,All,0,0,1,1,0,Snail Mucin,Recommended by GlowSense AI
+384,Cetaphil,Moisturizing Lotion,Serum,moisturizing_lotion.jpg,2411,4.2,Oily,0,0,1,0,1,Niacinamide,Recommended by GlowSense AI
+385,Neutrogena,Ultra Sheer SPF50,Cleanser,ultra_sheer_spf50.jpg,642,4.2,Oily,0,0,0,0,0,Salicylic Acid,Recommended by GlowSense AI
+386,COSRX,Low pH Cleanser,Treatment,low_ph_cleanser.jpg,856,4.0,Dry,0,0,0,0,1,Retinol,Recommended by GlowSense AI
+387,Neutrogena,Hydro Boost,Cream,hydro_boost.jpg,533,4.8,Oily,1,0,0,1,0,Niacinamide,Recommended by GlowSense AI
+388,Dot & Key,Barrier Repair Cream,Moisturizer,barrier_repair_cream.jpg,2801,4.3,Dry,1,1,0,1,1,Centella,Recommended by GlowSense AI
+389,La Roche-Posay,Anthelios SPF50,Cleanser,anthelios_spf50.jpg,2220,4.0,Sensitive,0,0,0,0,0,Hyaluronic Acid,Recommended by GlowSense AI
+390,The Ordinary,Vitamin C,Serum,vitamin_c.jpg,2517,4.4,All,0,1,1,0,0,Niacinamide,Recommended by GlowSense AI
+391,La Roche-Posay,Effaclar Duo,Cream,effaclar_duo.jpg,479,4.9,Dry,0,0,1,1,0,Niacinamide,Recommended by GlowSense AI
+392,Dot & Key,Watermelon Sunscreen,Cream,watermelon_sunscreen.jpg,851,4.2,Dry,0,0,0,1,1,Snail Mucin,Recommended by GlowSense AI
+393,Dot & Key,Vitamin C Serum,Treatment,vitamin_c_serum.jpg,2978,4.4,All,1,1,1,1,1,Retinol,Recommended by GlowSense AI
+394,COSRX,BHA Blackhead Power,Moisturizer,bha_blackhead_power.jpg,1559,4.9,Dry,1,1,1,1,0,Centella,Recommended by GlowSense AI
+395,La Roche-Posay,Effaclar Cleanser,Sunscreen,effaclar_cleanser.jpg,2529,4.9,Combination,1,0,1,0,0,Snail Mucin,Recommended by GlowSense AI
+396,Cetaphil,Gentle Skin Cleanser,Cleanser,gentle_skin_cleanser.jpg,1598,4.4,Oily,0,1,0,0,1,Retinol,Recommended by GlowSense AI
+397,COSRX,AHA Whitehead Power,Cream,aha_whitehead_power.jpg,2582,4.4,All,1,0,1,1,0,Salicylic Acid,Recommended by GlowSense AI
+398,The Ordinary,Azelaic Acid,Cream,azelaic_acid.jpg,1686,5.0,All,1,0,1,1,1,Centella,Recommended by GlowSense AI
+399,Dot & Key,Vitamin C Serum,Moisturizer,vitamin_c_serum.jpg,1081,4.6,Sensitive,1,1,1,0,1,Hyaluronic Acid,Recommended by GlowSense AI
+400,Dot & Key,Barrier Repair Cream,Serum,barrier_repair_cream.jpg,1800,4.9,Oily,1,0,0,0,1,Niacinamide,Recommended by GlowSense AI
+401,Minimalist,Retinol,Moisturizer,retinol.jpg,1505,4.6,Combination,1,1,1,0,1,Hyaluronic Acid,Recommended by GlowSense AI
+402,Cetaphil,Bright Healthy Radiance,Sunscreen,bright_healthy_radiance.jpg,1531,4.3,All,0,1,0,1,1,Vitamin C,Recommended by GlowSense AI
+403,La Roche-Posay,Effaclar Duo,Cream,effaclar_duo.jpg,947,4.8,All,0,0,0,1,1,Hyaluronic Acid,Recommended by GlowSense AI
+404,COSRX,AHA Whitehead Power,Treatment,aha_whitehead_power.jpg,1976,4.8,Combination,0,0,1,0,0,Centella,Recommended by GlowSense AI
+405,Neutrogena,Ultra Sheer SPF50,Serum,ultra_sheer_spf50.jpg,971,4.9,Dry,1,1,0,0,0,Niacinamide,Recommended by GlowSense AI
+406,Neutrogena,Oil Free Acne Wash,Cream,oil_free_acne_wash.jpg,850,4.5,Sensitive,0,0,0,1,1,Niacinamide,Recommended by GlowSense AI
+407,Minimalist,Salicylic Acid,Serum,salicylic_acid.jpg,2520,4.8,Oily,0,0,1,0,1,Retinol,Recommended by GlowSense AI
+408,CeraVe,Foaming Cleanser,Cleanser,foaming_cleanser.jpg,1423,5.0,Sensitive,1,0,0,0,0,Vitamin C,Recommended by GlowSense AI
+409,La Roche-Posay,Effaclar Duo,Moisturizer,effaclar_duo.jpg,2690,4.5,Sensitive,0,1,1,0,0,Vitamin C,Recommended by GlowSense AI
+410,Cetaphil,Gentle Skin Cleanser,Sunscreen,gentle_skin_cleanser.jpg,2523,4.6,Sensitive,1,0,0,0,0,Ceramides,Recommended by GlowSense AI
+411,CeraVe,SA Cleanser,Treatment,sa_cleanser.jpg,890,4.4,Oily,0,0,0,0,0,Niacinamide,Recommended by GlowSense AI
+412,CeraVe,AM Moisturizer,Serum,am_moisturizer.jpg,1869,4.3,Combination,1,0,0,0,0,Ceramides,Recommended by GlowSense AI
+413,La Roche-Posay,Toleriane Cleanser,Moisturizer,toleriane_cleanser.jpg,1045,4.3,Oily,1,0,0,1,0,Retinol,Recommended by GlowSense AI
+414,CeraVe,Moisturizing Cream,Moisturizer,moisturizing_cream.jpg,1288,4.5,Oily,1,1,1,1,0,Hyaluronic Acid,Recommended by GlowSense AI
+415,Neutrogena,Oil Free Acne Wash,Serum,oil_free_acne_wash.jpg,2024,4.6,Dry,1,1,0,0,1,Ceramides,Recommended by GlowSense AI
+416,La Roche-Posay,Anthelios SPF50,Cleanser,anthelios_spf50.jpg,2419,4.6,All,1,0,0,0,1,Ceramides,Recommended by GlowSense AI
+417,CeraVe,Moisturizing Cream,Moisturizer,moisturizing_cream.jpg,1286,4.2,Sensitive,0,0,1,1,0,Hyaluronic Acid,Recommended by GlowSense AI
+418,Cetaphil,Gentle Skin Cleanser,Treatment,gentle_skin_cleanser.jpg,2476,4.2,Sensitive,0,0,0,1,1,Salicylic Acid,Recommended by GlowSense AI
+419,The Ordinary,Vitamin C,Treatment,vitamin_c.jpg,2127,4.4,Sensitive,0,1,0,0,0,Niacinamide,Recommended by GlowSense AI
+420,Dot & Key,Barrier Repair Cream,Serum,barrier_repair_cream.jpg,2890,4.2,Combination,1,1,0,1,1,Vitamin C,Recommended by GlowSense AI
+421,CeraVe,SA Cleanser,Serum,sa_cleanser.jpg,604,5.0,Dry,0,0,1,0,1,Ceramides,Recommended by GlowSense AI
+422,Cetaphil,Daily Facial Cleanser,Cleanser,daily_facial_cleanser.jpg,2619,4.2,Oily,0,0,0,0,0,Snail Mucin,Recommended by GlowSense AI
+423,COSRX,Low pH Cleanser,Serum,low_ph_cleanser.jpg,1577,4.7,Combination,1,1,0,0,0,Niacinamide,Recommended by GlowSense AI
+424,La Roche-Posay,Effaclar Duo,Serum,effaclar_duo.jpg,999,4.3,All,1,0,0,1,0,Salicylic Acid,Recommended by GlowSense AI
+425,COSRX,BHA Blackhead Power,Treatment,bha_blackhead_power.jpg,2340,4.6,All,1,0,1,1,0,Hyaluronic Acid,Recommended by GlowSense AI
+426,The Ordinary,Vitamin C,Sunscreen,vitamin_c.jpg,2461,4.8,Sensitive,1,1,0,0,1,Salicylic Acid,Recommended by GlowSense AI
+427,COSRX,BHA Blackhead Power,Sunscreen,bha_blackhead_power.jpg,836,4.7,Oily,0,1,1,0,1,Centella,Recommended by GlowSense AI
+428,Cetaphil,Moisturizing Cream,Moisturizer,moisturizing_cream.jpg,1959,4.7,Combination,0,0,1,0,1,Snail Mucin,Recommended by GlowSense AI
+429,COSRX,Low pH Cleanser,Sunscreen,low_ph_cleanser.jpg,1176,4.9,All,1,1,1,0,0,Vitamin C,Recommended by GlowSense AI
+430,Neutrogena,Ultra Sheer SPF50,Cream,ultra_sheer_spf50.jpg,769,4.4,All,0,1,1,0,0,Hyaluronic Acid,Recommended by GlowSense AI
+431,The Ordinary,Azelaic Acid,Treatment,azelaic_acid.jpg,749,4.4,All,1,0,1,1,1,Niacinamide,Recommended by GlowSense AI
+432,La Roche-Posay,Anthelios SPF50,Treatment,anthelios_spf50.jpg,2052,4.4,Dry,1,0,0,0,1,Niacinamide,Recommended by GlowSense AI
+433,COSRX,BHA Blackhead Power,Treatment,bha_blackhead_power.jpg,1848,4.4,Oily,0,1,1,1,1,Ceramides,Recommended by GlowSense AI
+434,Neutrogena,Ultra Sheer SPF50,Treatment,ultra_sheer_spf50.jpg,1339,4.6,All,0,0,0,1,0,Centella,Recommended by GlowSense AI
+435,Dot & Key,Cica Gel,Cleanser,cica_gel.jpg,2755,4.7,Combination,0,0,0,1,0,Retinol,Recommended by GlowSense AI
+436,Neutrogena,Ultra Sheer SPF50,Cleanser,ultra_sheer_spf50.jpg,1066,4.1,Combination,0,0,0,1,0,Snail Mucin,Recommended by GlowSense AI
+437,Dot & Key,Vitamin C Serum,Cleanser,vitamin_c_serum.jpg,2851,4.2,Oily,0,0,0,1,0,Niacinamide,Recommended by GlowSense AI
+438,CeraVe,SA Cleanser,Cream,sa_cleanser.jpg,1095,4.5,Dry,0,0,1,1,0,Hyaluronic Acid,Recommended by GlowSense AI
+439,Cetaphil,Daily Facial Cleanser,Treatment,daily_facial_cleanser.jpg,660,4.1,Oily,0,1,0,0,0,Snail Mucin,Recommended by GlowSense AI
+440,Dot & Key,Barrier Repair Cream,Cream,barrier_repair_cream.jpg,2082,4.2,Dry,1,0,1,0,0,Hyaluronic Acid,Recommended by GlowSense AI
+441,The Ordinary,Vitamin C,Moisturizer,vitamin_c.jpg,1920,4.8,All,1,0,0,1,0,Salicylic Acid,Recommended by GlowSense AI
+442,La Roche-Posay,Anthelios SPF50,Serum,anthelios_spf50.jpg,1288,4.2,Oily,1,1,0,1,1,Ceramides,Recommended by GlowSense AI
+443,CeraVe,Hydrating Cleanser,Serum,hydrating_cleanser.jpg,2103,4.2,Combination,0,1,1,1,1,Centella,Recommended by GlowSense AI
+444,Dot & Key,Watermelon Sunscreen,Cream,watermelon_sunscreen.jpg,1033,4.8,All,1,1,0,0,0,Hyaluronic Acid,Recommended by GlowSense AI
+445,The Ordinary,Niacinamide 10%,Cleanser,niacinamide_10.jpg,496,4.6,Sensitive,0,1,0,0,1,Vitamin C,Recommended by GlowSense AI
+446,Dot & Key,Vitamin C Serum,Moisturizer,vitamin_c_serum.jpg,2824,4.2,Sensitive,0,0,1,0,1,Snail Mucin,Recommended by GlowSense AI
+447,Dot & Key,Barrier Repair Cream,Sunscreen,barrier_repair_cream.jpg,1397,4.9,Combination,0,1,0,1,0,Centella,Recommended by GlowSense AI
+448,Minimalist,Niacinamide 10%,Moisturizer,niacinamide_10.jpg,1839,4.1,Dry,1,0,0,1,0,Retinol,Recommended by GlowSense AI
+449,Neutrogena,Oil Free Acne Wash,Serum,oil_free_acne_wash.jpg,2540,4.6,Dry,0,1,0,0,1,Vitamin C,Recommended by GlowSense AI
+450,La Roche-Posay,Effaclar Cleanser,Cleanser,effaclar_cleanser.jpg,2146,4.7,Sensitive,1,1,0,1,1,Niacinamide,Recommended by GlowSense AI
+451,La Roche-Posay,Effaclar Cleanser,Cream,effaclar_cleanser.jpg,774,4.9,Dry,0,0,0,1,0,Vitamin C,Recommended by GlowSense AI
+452,Minimalist,Salicylic Acid,Moisturizer,salicylic_acid.jpg,539,4.3,All,0,0,0,1,0,Hyaluronic Acid,Recommended by GlowSense AI
+453,CeraVe,SA Cleanser,Cream,sa_cleanser.jpg,1126,4.3,Dry,1,0,1,0,1,Hyaluronic Acid,Recommended by GlowSense AI
+454,COSRX,BHA Blackhead Power,Cream,bha_blackhead_power.jpg,1871,4.4,Sensitive,1,1,0,0,1,Ceramides,Recommended by GlowSense AI
+455,COSRX,Snail Mucin,Cream,snail_mucin.jpg,1965,4.1,Oily,1,1,1,0,0,Niacinamide,Recommended by GlowSense AI
+456,Neutrogena,Oil Free Acne Wash,Cleanser,oil_free_acne_wash.jpg,909,4.4,Sensitive,0,1,1,1,1,Retinol,Recommended by GlowSense AI
+457,Cetaphil,Gentle Skin Cleanser,Moisturizer,gentle_skin_cleanser.jpg,1995,4.3,All,0,0,0,1,0,Hyaluronic Acid,Recommended by GlowSense AI
+458,Minimalist,Niacinamide 10%,Cleanser,niacinamide_10.jpg,2316,4.8,Combination,0,1,1,0,0,Hyaluronic Acid,Recommended by GlowSense AI
+459,The Ordinary,Retinol,Cream,retinol.jpg,2184,4.7,Sensitive,0,1,1,1,1,Hyaluronic Acid,Recommended by GlowSense AI
+460,La Roche-Posay,Effaclar Duo,Serum,effaclar_duo.jpg,2805,4.7,Dry,0,1,1,1,1,Retinol,Recommended by GlowSense AI
+461,Minimalist,Vitamin C Serum,Serum,vitamin_c_serum.jpg,1951,4.4,Sensitive,1,0,1,1,0,Niacinamide,Recommended by GlowSense AI
+462,The Ordinary,Azelaic Acid,Moisturizer,azelaic_acid.jpg,771,4.5,Dry,0,1,0,0,0,Centella,Recommended by GlowSense AI
+463,The Ordinary,Buffet Serum,Moisturizer,buffet_serum.jpg,1947,4.2,Oily,1,0,1,1,0,Salicylic Acid,Recommended by GlowSense AI
+464,The Ordinary,Azelaic Acid,Cream,azelaic_acid.jpg,1417,4.8,Oily,0,1,0,1,1,Salicylic Acid,Recommended by GlowSense AI
+465,Minimalist,Vitamin C Serum,Treatment,vitamin_c_serum.jpg,1200,4.3,Dry,1,0,0,0,1,Vitamin C,Recommended by GlowSense AI
+466,CeraVe,PM Moisturizer,Cream,pm_moisturizer.jpg,2586,4.7,All,1,0,1,1,1,Centella,Recommended by GlowSense AI
+467,Minimalist,Alpha Arbutin,Serum,alpha_arbutin.jpg,1809,4.1,Dry,0,0,1,1,0,Snail Mucin,Recommended by GlowSense AI
+468,Dot & Key,Cica Gel,Treatment,cica_gel.jpg,2968,4.7,Oily,1,1,0,1,1,Snail Mucin,Recommended by GlowSense AI
+469,Neutrogena,Hydro Boost,Sunscreen,hydro_boost.jpg,2167,4.7,Combination,1,0,1,1,1,Salicylic Acid,Recommended by GlowSense AI
+470,CeraVe,SA Cleanser,Cream,sa_cleanser.jpg,647,4.5,Oily,0,0,0,0,1,Hyaluronic Acid,Recommended by GlowSense AI
+471,COSRX,BHA Blackhead Power,Cleanser,bha_blackhead_power.jpg,2484,4.2,Dry,0,0,0,1,1,Hyaluronic Acid,Recommended by GlowSense AI
+472,The Ordinary,Niacinamide 10%,Moisturizer,niacinamide_10.jpg,421,4.6,Combination,1,0,1,1,1,Ceramides,Recommended by GlowSense AI
+473,Minimalist,Vitamin C Serum,Cream,vitamin_c_serum.jpg,2803,4.2,Dry,1,1,0,0,0,Hyaluronic Acid,Recommended by GlowSense AI
+474,Dot & Key,Vitamin C Serum,Serum,vitamin_c_serum.jpg,1678,4.4,Dry,1,1,0,1,1,Snail Mucin,Recommended by GlowSense AI
+475,COSRX,Snail Mucin,Serum,snail_mucin.jpg,2330,4.9,All,0,1,1,0,0,Salicylic Acid,Recommended by GlowSense AI
+476,The Ordinary,Retinol,Serum,retinol.jpg,1096,4.2,All,1,1,0,1,0,Vitamin C,Recommended by GlowSense AI
+477,La Roche-Posay,Effaclar Cleanser,Moisturizer,effaclar_cleanser.jpg,1376,4.2,Combination,1,1,1,0,0,Niacinamide,Recommended by GlowSense AI
+478,Cetaphil,Gentle Skin Cleanser,Treatment,gentle_skin_cleanser.jpg,2965,4.7,Oily,0,1,1,0,1,Salicylic Acid,Recommended by GlowSense AI
+479,Minimalist,Alpha Arbutin,Cream,alpha_arbutin.jpg,718,4.9,Dry,0,1,1,0,1,Retinol,Recommended by GlowSense AI
+480,COSRX,Low pH Cleanser,Treatment,low_ph_cleanser.jpg,754,4.1,All,1,1,0,0,0,Salicylic Acid,Recommended by GlowSense AI
+481,Minimalist,Salicylic Acid,Cleanser,salicylic_acid.jpg,2554,4.8,Combination,0,1,1,0,1,Hyaluronic Acid,Recommended by GlowSense AI
+482,COSRX,AHA Whitehead Power,Cleanser,aha_whitehead_power.jpg,1118,4.2,Oily,0,0,1,1,0,Retinol,Recommended by GlowSense AI
+483,Cetaphil,Bright Healthy Radiance,Cleanser,bright_healthy_radiance.jpg,459,4.2,Sensitive,0,0,0,1,0,Vitamin C,Recommended by GlowSense AI
+484,La Roche-Posay,Effaclar Cleanser,Serum,effaclar_cleanser.jpg,2042,5.0,Oily,0,0,1,1,1,Ceramides,Recommended by GlowSense AI
+485,The Ordinary,Retinol,Treatment,retinol.jpg,2485,4.7,All,1,1,0,0,1,Ceramides,Recommended by GlowSense AI
+486,Cetaphil,Daily Facial Cleanser,Treatment,daily_facial_cleanser.jpg,1962,4.6,Oily,0,0,1,1,1,Salicylic Acid,Recommended by GlowSense AI
+487,The Ordinary,Retinol,Sunscreen,retinol.jpg,546,4.1,Oily,0,1,1,1,0,Vitamin C,Recommended by GlowSense AI
+488,Minimalist,Niacinamide 10%,Cleanser,niacinamide_10.jpg,2596,5.0,Oily,1,1,1,1,1,Hyaluronic Acid,Recommended by GlowSense AI
+489,The Ordinary,Retinol,Cream,retinol.jpg,1787,4.4,All,0,0,1,0,0,Snail Mucin,Recommended by GlowSense AI
+490,Dot & Key,Watermelon Sunscreen,Serum,watermelon_sunscreen.jpg,2744,4.9,Oily,1,1,0,1,1,Ceramides,Recommended by GlowSense AI
+491,Dot & Key,Vitamin C Serum,Treatment,vitamin_c_serum.jpg,2800,4.8,Combination,0,1,0,0,1,Niacinamide,Recommended by GlowSense AI
+492,CeraVe,Foaming Cleanser,Treatment,foaming_cleanser.jpg,1814,4.0,Dry,1,0,0,1,0,Retinol,Recommended by GlowSense AI
+493,Minimalist,Niacinamide 10%,Serum,niacinamide_10.jpg,1584,4.7,Dry,1,0,1,0,0,Hyaluronic Acid,Recommended by GlowSense AI
+494,Cetaphil,Daily Facial Cleanser,Treatment,daily_facial_cleanser.jpg,1091,4.4,Oily,0,1,1,0,0,Niacinamide,Recommended by GlowSense AI
+495,Dot & Key,Barrier Repair Cream,Sunscreen,barrier_repair_cream.jpg,1967,4.2,All,0,0,1,1,0,Centella,Recommended by GlowSense AI
+496,Cetaphil,Gentle Skin Cleanser,Cream,gentle_skin_cleanser.jpg,378,4.7,Sensitive,1,1,0,1,0,Ceramides,Recommended by GlowSense AI
+497,CeraVe,AM Moisturizer,Cleanser,am_moisturizer.jpg,2295,4.3,Dry,1,0,1,0,1,Niacinamide,Recommended by GlowSense AI
+498,Minimalist,Retinol,Moisturizer,retinol.jpg,1384,4.4,Combination,0,0,1,1,1,Vitamin C,Recommended by GlowSense AI
+499,The Ordinary,Azelaic Acid,Moisturizer,azelaic_acid.jpg,2118,4.9,Dry,1,1,1,1,1,Ceramides,Recommended by GlowSense AI
+500,Cetaphil,Gentle Skin Cleanser,Cleanser,gentle_skin_cleanser.jpg,1962,4.4,Sensitive,1,0,0,0,0,Centella,Recommended by GlowSense AI
