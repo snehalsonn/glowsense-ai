@@ -7,11 +7,9 @@ import Quiz from "./pages/quiz";
 import Dashboard from "./pages/dashboard";
 import Login from "./pages/login";
 import Signup from "./pages/signup";
-
 import ProductDetails from "./pages/productdetails";
-import Wishlist from "./pages/Wishlist";
-
-import Checkout from "./pages/Checkout";
+import Wishlist from "./pages/wishlist";
+import Checkout from "./pages/checkout";
 
 function App() {
   return (
@@ -20,12 +18,12 @@ function App() {
       <Route path="/products" element={<Products />} />
       <Route path="/product/:id" element={<ProductDetails />} />
       <Route path="/wishlist" element={<Wishlist />} />
+      <Route path="/checkout" element={<Checkout />} />
       <Route path="/scanner" element={<Scanner />} />
       <Route path="/quiz" element={<Quiz />} />
       <Route path="/dashboard" element={<Dashboard />} />
       <Route path="/login" element={<Login />} />
       <Route path="/signup" element={<Signup />} />
-      <Route path="/checkout" element={<Checkout />} />
     </Routes>
   );
 }
