@@ -1,10 +1,10 @@
-import Navbar from "../components/navbar";
-import Hero from "../components/hero";
-import Features from "../components/features";
-import Stats from "../components/Stats";
-import ProductPreview from "../components/ProductPreview";
-import ScannerPreview from "../components/ScannerPreview";
-import Footer from "../components/footer";
+import navbar from "../components/navbar";
+import hero from "../components/hero";
+import features from "../components/features";
+import stats from "../components/stats";
+import productPreview from "../components/productPreview";
+import ScannerPreview from "../components/scannerpreview";
+import footer from "../components/footer";
 
 export default function Home() {
   return (
