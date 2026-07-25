@@ -8,7 +8,7 @@ import Dashboard from "./pages/dashboard";
 import Login from "./pages/login";
 import Signup from "./pages/signup";
 
-import ProductDetails from "./pages/ProductDetails";
+import ProductDetails from "./pages/productdetails";
 import Wishlist from "./pages/Wishlist";
 
 import Checkout from "./pages/Checkout";
